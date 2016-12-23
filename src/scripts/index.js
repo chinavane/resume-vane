@@ -6,7 +6,7 @@ var Swiper = require('./common/libs/swiper/swiper.min.js');
 var swiperAni = require('./common/libs/swiper/swiper.animate1.0.2.min.js');
 var IScroll = require('./common/libs/iscroll/iscroll.js');
 
-
+// edit index
 $(".swiper-container").show();
 $("#mainContainer").hide();
 
